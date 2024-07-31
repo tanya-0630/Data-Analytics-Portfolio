@@ -24,22 +24,20 @@ Additional Skills: Statistical Analysis, Hypothesis Testing, Process Optimizatio
 
 Here are some of the analytics projects that I have worked on using different tools and technologies.
 
-## Analyzing whether or not a loan borrower will default in his paymentsCode
-[Uploading Analyzing whether or not a loan borrower will default in his payments.ipynb…]()
+## Analyzing whether or not a loan borrower will default in his payments
+Code:
 
+Goal: To determine if a loan will default.
 
-Goal: To determine what factors contribute the most to a movie's success.
-
-Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+Description: 
 
 Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+Results: 
 
 
-Dive into the projects below to see my methodologies, code, and successful outcomes.
 
 
 
