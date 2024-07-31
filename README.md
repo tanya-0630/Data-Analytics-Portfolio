@@ -41,7 +41,7 @@ Results:
 
 
 
-I'm always eager to tackle new challenges and collaborate on data-driven projects. Feel free to reach out through email (tanya.fitkiriwala@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/tanya-fitkiriwala/) for further exploration.
+I'm always eager to tackle new challenges and collaborate on data-driven projects. Feel free to reach out through email (tanya.fitkiriwala@gmail.com) or connect with me on LinkedIn (@tanya-fitkiriwala) for further exploration.
 
 Thank you for visiting my portfolio!
 
