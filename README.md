@@ -29,9 +29,9 @@ Code: [Analyzing whether or not a loan borrower will default](https://github.com
 
 Goal: To determine if a loan will default.
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization, Logistic Regression, Feature Engineering.
+Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Logistic Regression, Feature Engineering.
 
 
 I'm always eager to tackle new challenges and collaborate on data-driven projects. Feel free to reach out through email (tanya.fitkiriwala@gmail.com) or connect with me on LinkedIn ([@tanya-fitkiriwala](https://www.linkedin.com/in/tanya-fitkiriwala/)) for further exploration.
