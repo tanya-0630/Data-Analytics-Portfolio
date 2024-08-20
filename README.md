@@ -5,7 +5,7 @@ Welcome to my data analytics portfolio! This repository is a showcase of my pass
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My  [CV](https://github.com/user-attachments/files/16564483/CV.pdf) in PDF.
+My  [CV](https://github.com/user-attachments/files/16680905/TANYAFITKIRIWALA_Resume.pdf) in PDF.
 
 ## My Journey
 
