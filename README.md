@@ -33,11 +33,6 @@ Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, 
 
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-Results: 
-
-
-
-
 
 I'm always eager to tackle new challenges and collaborate on data-driven projects. Feel free to reach out through email (tanya.fitkiriwala@gmail.com) or connect with me on LinkedIn ([@tanya-fitkiriwala](https://www.linkedin.com/in/tanya-fitkiriwala/)) for further exploration.
 
