@@ -25,8 +25,7 @@ Additional Skills: Statistical Analysis, Hypothesis Testing, Process Optimizatio
 Here are some of the analytics projects that I have worked on using different tools and technologies.
 
 ## Analyzing whether or not a loan borrower will default in his payments
-Code:
-
+Code: Analyzing whether or not a loan borrower will default in his payments.ipynb
 
 Goal: To determine if a loan will default.
 
