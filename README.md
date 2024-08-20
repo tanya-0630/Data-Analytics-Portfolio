@@ -27,11 +27,10 @@ Here are some of the analytics projects that I have worked on using different to
 ## Analyzing whether or not a loan borrower will default in his payments
 Code:
 
+
 Goal: To determine if a loan will default.
 
-Description: 
-
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization, Logistic Regression, Feature Engineering.
 
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
