@@ -25,7 +25,7 @@ Additional Skills: Statistical Analysis, Hypothesis Testing, Process Optimizatio
 Here are some of the analytics projects that I have worked on using different tools and technologies.
 
 ## Analyzing whether or not a loan borrower will default in his payments
-Code: https://github.com/tanya-0630/Data-Analytics-Portfolio/blob/4a67867075aab7fe431216b4359293d0e0433434/Analyzing%20whether%20or%20not%20a%20loan%20borrower%20will%20default%20in%20his%20payments.ipynb
+Code: [Analyzing whether or not a loan borrower will default](https://github.com/tanya-0630/Data-Analytics-Portfolio/blob/4a67867075aab7fe431216b4359293d0e0433434/Analyzing%20whether%20or%20not%20a%20loan%20borrower%20will%20default%20in%20his%20payments.ipynb)
 
 Goal: To determine if a loan will default.
 
